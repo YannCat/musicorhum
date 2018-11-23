@@ -1,0 +1,38 @@
+p
+{
+	color: white;
+}
+
+h1
+{
+	color: white;
+}
+
+form
+{
+	background-color: rgba(195, 9, 47, 0.9);
+	border : 1px white groove;
+	border-radius : 50px;
+	box-shadow : 3px 3px 3px black;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+body
+{
+	background: url("../img/irve.png") fixed no-repeat top right, url("../img/e55c.png") fixed no-repeat bottom left #f3f3f3;
+}
+
+#boite
+{
+	background-color: rgba(195, 9, 47, 0.9);
+	border : 1px white groove;
+	border-radius : 10px;
+	box-shadow : 3px 3px 3px black;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
